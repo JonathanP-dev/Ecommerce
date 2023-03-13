@@ -1,15 +1,14 @@
-# ENUNCIADO
+# Shopping Cart
 
-1. Ecommerce
+1. Basics
 
-- Muestra una lista de productos que vienen de un JSON
-- Anade un filtro por categoria
-- anade un filtro por precio
+- List the JSON (products)
+- Category filter
+- Price filter
 
 2. Shopping Cart
 
-- Haz que se puedan . agregar los productos al carrito
-                    . eliminar los productos del carrito
-                    . modificar la cantidad de productos del carrito
-- Sincroniza los cambios del carrito con la lista de productos
-- Guarda en el localStorage el carrito para que se recupere al recargar la pagina
+- You can:          . Add products
+                    . Delete products
+                    . Modify the lot
+- Cart saved in localStorage.
